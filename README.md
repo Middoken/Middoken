@@ -5,4 +5,4 @@
 - Meus conhecimentos são em JavaScript, HTML5, CSS3.
 - Frameworks: React.JS, TypeScript.
 - DBs: MySQL.
-- 💡 No momento tenho bastante interesse em TypeScript com aplicações junto ao React.JS e PYTHON.
+- 💡 No momento tenho bastante interesse em TypeScript com aplicações junto ao React.JS e aprofundar meu conhecimento em PYTHON, podendo investir futuramente em alguma framework, como Flask.
