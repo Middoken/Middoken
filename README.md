@@ -1,7 +1,6 @@
 type Luiz Henrique Magon 
 
-Autonomia é conhecimento, e conhecimento é se arriscar em autonomia.
-
+➤ Autonomia é conhecimento, e conhecimento é se arriscar em autonomia.
 ➤ Atualmente trabalho como WEB Developer Junior, exercendo meus conhecimentos em React.JS e TypesScript.
 ➤ Formado em Análise e desenvolvimento de sistemas pela UCS-RS.
 ➤ Meus conhecimentos são em JavaScript, HTML5, CSS3 e Python.
