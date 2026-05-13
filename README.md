@@ -1,2 +1,2 @@
 WEB Developer && Full-Stack (Junior)
-JS, React, TypeScript, Next | Python, Flask
+JS, React.js, TypeScript, Next.js | Python, Flask
