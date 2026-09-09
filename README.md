@@ -1,2 +1,5 @@
-WEB Developer && Full-Stack (Junior)
-JS, React.js, TypeScript, Next.js | Python, Flask, FastAPI
+𝖳𝗋𝖺𝗇𝗌𝖿𝗈𝗋𝗆𝗂𝗇𝗀 𝖼𝗁𝖺𝗅𝗅𝖾𝗇𝗀𝖾𝗌 𝗂𝗇𝗍𝗈 𝖺 𝗌𝗈𝗅𝗂𝖽 𝖺𝗇𝖽 𝖼𝗅𝖾𝖺𝗇 𝖺𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾, 𝖾𝗏𝖾𝗋𝗒 𝖽𝖺𝗒.
+
+"𝘔𝘦𝘢𝘴𝘶𝘳𝘪𝘯𝘨 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴 𝘣𝘺 𝘭𝘪𝘯𝘦𝘴 𝘰𝘧 𝘤𝘰𝘥𝘦 𝘪𝘴 𝘭𝘪𝘬𝘦 𝘮𝘦𝘢𝘴𝘶𝘳𝘪𝘯𝘨 𝘵𝘩𝘦 𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴 𝘰𝘧 𝘢𝘪𝘳𝘤𝘳𝘢𝘧𝘵 𝘤𝘰𝘯𝘴𝘵𝘳𝘶𝘤𝘵𝘪𝘰𝘯 𝘣𝘺 𝘸𝘦𝘪𝘨𝘩𝘵." - 𝑩𝒊𝒍𝒍 𝑮𝒂𝒕𝒆𝒔
+
+⸝⸝ JavaScript, React.JS, Next.JS, TypeScript | Python, FastAPI | MySQL ⸝⸝
