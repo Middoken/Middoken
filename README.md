@@ -1,7 +1,5 @@
 ## Hello, I'm Luiz, welcome 😊. Here you can find some of my projects.
 
-**`𝖳𝗋𝖺𝗇𝗌𝖿𝗈𝗋𝗆𝗂𝗇𝗀 𝖼𝗁𝖺𝗅𝗅𝖾𝗇𝗀𝖾𝗌 𝗂𝗇𝗍𝗈 𝖺 𝗌𝗈𝗅𝗂𝖽 𝖺𝗇𝖽 𝖼𝗅𝖾𝖺𝗇 𝖺𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾, 𝖾𝗏𝖾𝗋𝗒 𝖽𝖺𝗒.`**
-
 ### 🤖 Stack
 
 <img 
