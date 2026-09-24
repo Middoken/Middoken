@@ -1,5 +1,3 @@
-## Hello, I'm Luiz, welcome 😊. Here you can find some of my projects.
-
 ### 🤖 Stack
 
 <img 
